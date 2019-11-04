@@ -1,5 +1,5 @@
 # LeetCode-Solutions
-Solutions to the LeetCode problems by tags
+Solutions to the LeetCode Easy problems
 
 ## Array
 
