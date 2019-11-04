@@ -1,7 +1,7 @@
 # LeetCode-Solutions
-Solutions to the LeetCode problems
+Solutions to the LeetCode problems by tags
 
-Guide
+Array
 
 |Number |Problem |Difficulty |Tags |Solutions |
 |---    |---     |---        |---  |---       |
