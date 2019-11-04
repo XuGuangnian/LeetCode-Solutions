@@ -1,6 +1,5 @@
 # LeetCode-Solutions
 Solutions to the LeetCode problems by tags
-array
 
 ## Array
 
